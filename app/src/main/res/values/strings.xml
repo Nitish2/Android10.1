@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Addition</string>
+    <string name="title_activity_simple_addition">Simple_addition</string>
+    <string name="text_view">Text View</string>
+</resources>
